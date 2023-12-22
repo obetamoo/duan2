@@ -4,6 +4,6 @@ a:hover {
 p,
 h2,
 h1 {
-  color: blue;
+  color: rgb(255, 0, 0);
   font-style: italic;
 }
